@@ -1,4 +1,4 @@
-# python-analytics
+# Python Analytics Tutorail
 Using the latest version of pandas, am going to create more useful tutorial for doing analytics using python and pandas library
 
 # Topics
